@@ -32,10 +32,14 @@ const EVENTS_DATA = [
 ];
 
 const COORDINATORS = [
-    { name: "Aman Kumar", role: "Club Lead", branch: "CSE '25" },
-    { name: "Priya Singh", role: "Tech Lead", branch: "ECE '25" },
-    { name: "Rahul Verma", role: "Event Manager", branch: "CSE '26" },
-    { name: "Sneha Gupta", role: "Content Head", branch: "IT '26" },
+    { name: "Ravi Shankar", role: "Coordinator", branch: "CSE" },
+    { name: "Pintu", role: "Coordinator", branch: "CSE" },
+    { name: "Richa", role: "Coordinator", branch: "CSE '23" },
+    { name: "Ayush (TOPPER)", role: "Coordinator", branch: "CSE" },
+    { name: "Pawan", role: "Coordinator", branch: "CSE '23" },
+    { name: "Shalu", role: "Coordinator", branch: "CSE" },
+    { name: "Priyansh", role: "Coordinator", branch: "CSE (Average)" },
+    { name: "Satyam", role: "Coordinator", branch: "CSE" },
 ];
 
 // --- COMPONENTS ---
